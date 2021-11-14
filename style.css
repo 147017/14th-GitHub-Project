@@ -1,0 +1,40 @@
+.body_background 
+{
+    background-color: blueviolet;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    background-image: url("Coding 12.png");
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	color: white;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	font-size: 20px;
+	padding: 10px;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
